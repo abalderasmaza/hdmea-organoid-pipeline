@@ -7,7 +7,7 @@ Raw data is **not** stored in this repo (see `.gitignore`). Download it into `da
 
 | File | Source | Size | Use |
 |---|---|---|---|
-| `maxone_record_000011.raw.h5` | GIN `NeuralEnsemble/ephy_testing_data`, path `maxwell/MaxOne_data/Record/000011/data.raw.h5` | 18 MB | Test file to learn loading + spike sorting |
+| `maxone_record_000011.raw.h5` | GIN `NeuralEnsemble/ephy_testing_data`, path `maxwell/MaxOne_data/Record/000011/data.raw.h5` | 18 MB | Test file for loading + spike sorting |
 
 Download:
     curl -L -o data/raw/maxone_record_000011.raw.h5 https://gin.g-node.org/NeuralEnsemble/ephy_testing_data/raw/master/maxwell/MaxOne_data/Record/000011/data.raw.h5
