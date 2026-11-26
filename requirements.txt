@@ -1,0 +1,6 @@
+spikeinterface[full]==0.106.0
+ipykernel
+numpy
+pandas
+matplotlib
+h5py
